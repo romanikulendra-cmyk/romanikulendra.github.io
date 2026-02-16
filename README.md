@@ -1,7 +1,37 @@
----
-theme: minima
----
+<h1>Hi, I'm Romani! <br/><a href="https://github.com/joshmadakor1">Biotechnology Undergraduet Student</a>
 
-## About Me
-I am an undergraduate student studying Information Technology
+<h2>About Me</h2>
+I am a BSc hons in Biotechnonology Undergraduet at the Sri Lanka Institute of Information Technology.
+<br />
 
+<h2>Education Qualifications</h2>
+
+Bachelor of Science (Honors) in Biotechnology at SLIIT (Sri Lanka Institute of Information
+Technology) | Expected Graduation: 2029 
+<br />
+
+G.C.E Advanced Level in the Physical Science stream (Cambridge Curriculum)
+<br />
+Physics – A
+<br />
+Chemistry – B
+<br />
+Mathematics - C
+<br />
+G.C.E Ordinary Level (Local Curriculum) - 8A’s, 1B
+<br />
+
+EDUCATION
+<br />
+2012-2025
+<br />
+Completed academic education from Grade 1 to Advanced Level at LOGOS COLLEGE, COLOMBO 06.
+<br />
+
+<h2>Hobbies</h2>
+Engaging in Scientific Research
+<br />
+Music
+<br />
+Painting Portraits 
+<br />
