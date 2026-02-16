@@ -3,7 +3,7 @@
 ![pp](https://github.com/user-attachments/assets/8bf5243b-ec83-42ef-91e4-4a1b62d3858c)
 
 <h2>About Me</h2>
-I am a BSc hons in Biotechnonology Undergraduate at the Sri Lanka Institute of Information Technology.
+I am a BSc hons in Biotechnology Undergraduate at the Sri Lanka Institute of Information Technology.
 <br />
 
 <h2>Education Qualifications</h2>
