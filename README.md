@@ -35,3 +35,13 @@ Music
 <br />
 Painting Portraits 
 <br />
+
+<h2>My Reume</h2>
+
+[HS25510546_CV.pdf.pdf](https://github.com/user-attachments/files/25341471/HS25510546_CV.pdf.pdf)
+<br />
+
+<h2>Contact Me</h2>
+Email:romanikulendra@gmail.com
+<br />
+
