@@ -1,9 +1,9 @@
-<h1>Hi, I'm Romani! <br/><a href="https://github.com/joshmadakor1">Biotechnology Undergraduet Student</a>
+<h1>Hi, I'm Romani! <br/><a href="https://github.com/joshmadakor1">Biotechnology Undergraduate Student</a>
 
 ![pp](https://github.com/user-attachments/assets/8bf5243b-ec83-42ef-91e4-4a1b62d3858c)
 
 <h2>About Me</h2>
-I am a BSc hons in Biotechnonology Undergraduet at the Sri Lanka Institute of Information Technology.
+I am a BSc hons in Biotechnonology Undergraduate at the Sri Lanka Institute of Information Technology.
 <br />
 
 <h2>Education Qualifications</h2>
@@ -38,7 +38,7 @@ Music
 Painting Portraits 
 <br />
 
-<h2>My Reume</h2>
+<h2>My Resume</h2>
 
 [HS25510546_CV.pdf.pdf](https://github.com/user-attachments/files/25341471/HS25510546_CV.pdf.pdf)
 <br />
